@@ -19,7 +19,7 @@ Azure AI Servicesには自然言語処理(Natural Language Processing)を実行�
 　 [**Lab00の手順**](./LAB_00-Startup_Hands-on_Lab.md)  に従って、リソースを作成してください。
  - すでに実施済みの場合は、次の手順に進んでください。
 
-## タスク1 : Azure AI Visionへのアクセス
+## タスク1 : Azure AI Languageへのアクセス
 
 1. 作成したプロジェクトにアクセスをします。Azure AI Foundry Portalの左側に表示されるメニューから **AIサービス** を選択します。 
 
