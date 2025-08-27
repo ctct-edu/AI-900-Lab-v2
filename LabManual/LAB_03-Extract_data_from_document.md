@@ -21,19 +21,17 @@ Azure AI Document Intelligence は、フォームやドキュメントから情�
 
 ## タスク1 : Document Intelligence へのアクセス
 
-   1. 作成したプロジェクトにアクセスをします。Azure AI Foundry Portalの左側に表示されるメニューから **AIサービス** を選択します。 
+作成したプロジェクトにアクセスをします。Azure AI Foundry Portalの左側に表示されるメニューから **AIサービス** を選択します。 
 
    ![](./media/lab1/02.png)
-   
-      ![](./media/lab1/02.png)
-   
-   1. 移動した **Azure AI サービス** のページで **AI機能を使用してソリューションを活性化する** のセクションから **Visionとドキュメント** を選択します。
-   
-      ![](./media/lab1/03.png)
-   
-   1. **Vision + Document** の画面が表示され、Document Intelligenceの機能をテストすることが可能となっていることが確認できます。
-   
-      ![](./media/lab1/04.png)
+
+移動した **Azure AI サービス** のページで **AI機能を使用してソリューションを活性化する** のセクションから **Visionとドキュメント** を選択します。
+
+![](./media/lab1/03.png)
+
+**Vision + Document** の画面が表示され、Document Intelligenceの機能をテストすることが可能となっていることが確認できます。
+
+![](./media/lab1/04.png)
 
 ## タスク 2 : ドキュメントの分析
 

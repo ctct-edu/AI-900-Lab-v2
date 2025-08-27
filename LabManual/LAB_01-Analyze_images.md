@@ -110,6 +110,6 @@ Azure AI Visionには、画像の内容やコンテキストを分析して情�
 
 5. 同様の手順でstore-camera-2.jpg、store-camera-3.jpg、store-camera-4.jpgをアップロードして、同じく生成されたタグの内容を確認します。
 
-
+時間がある場合は、サンプル画像や独自の画像をいくつか自由にお試しください。
 
 以上でAzure AI Vision に関するテストのラボは完了です！
