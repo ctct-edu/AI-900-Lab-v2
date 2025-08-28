@@ -19,7 +19,7 @@ Azure AI Language には "質問応答" 機能が含まれています。それ�
 
 1. 別のブラウザー タブで Azure portal ([https://portal.azure.com](https://portal.azure.com?azure-portal=true)) を開き、研修用の Microsoft アカウントを使用してサインインします。
 
-    > MFAが求められた場合は画面の指示に従ってMicrosoft Aunthenticatorをセットアップして認証を行ってください
+    > MFAが求められた場合は画面の指示に従ってMicrosoft Authenticatorをセットアップして認証を行ってください
 
 1. **[&#65291;リソースの作成]** ボタンをクリックし、**言語サービス**を検索します。 **言語サービス** のタイルで**作成** ボタンから **言語サービス** を選択します。 **[Select additional features]** ページが表示されたら次の設定を使用します。
 
