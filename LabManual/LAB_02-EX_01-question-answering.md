@@ -65,7 +65,7 @@ Azure AI Language には "質問応答" 機能が含まれています。それ�
 1. Language Studio ポータルの上部にある **[Understand questions and conversational language]** のタブに切り替え、**[Custom question answering]** を選択します。 **[Create new project]** で新しいカスタム質問応答プロジェクトを作成します。
 
 1. **[Choose language setting for resource]** ページで、 **[I want to set the language for all projects created in this resource(このリソースでプロジェクトを作成するときに言語を選択する)]** を選択し、 **[Next]** をクリックします。**
-    
+   
 1. **[Enter basic information]** ページで、次の詳細を入力し、**[Next]** をクリックします。
    
     - **言語リソース**: 選択済みの言語リソース  
@@ -81,7 +81,7 @@ Azure AI Language には "質問応答" 機能が含まれています。それ�
 
 1. **[URL の追加]** ボックスで、**[+ URL の追加]** を選択します。 次のように入力し、 **[すべて追加]** を選択します。
     - **URL の名前**: `MargiesKB`
-    - **URL**: `https://raw.githubusercontent.com/MicrosoftLearning/mslearn-ai-fundamentals/main/data/natural-language/margies_faq.docx`
+    - **URL**: `https://raw.githubusercontent.com/ctct-edu/AI-900-Lab-v2/main/LabManual/doc/margies_faq.docx`
     - **ファイル構造の分類**: "自動検出"
     
 1. **[すべて追加]** を選択します。  
