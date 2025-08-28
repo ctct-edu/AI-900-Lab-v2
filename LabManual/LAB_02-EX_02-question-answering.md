@@ -36,10 +36,10 @@ Azure AI Language には "質問応答" 機能が含まれています。それ�
     - **Instance Details(インスタンスの詳細)**
         - **[リージョン]**: East US 2    
         - **名前**: グローバルに一意な名称
-        - **価格レベル**: F0 もしくは S
+        - **価格レベル**: S もしくは F0
     - **Custom question answering(カスタムの質問応答)**
         - **Azure Search のリージョン**: East US 2
-        - **Azure Search の価格レベル**: Free F (3 Indexes) もしくは Basic B(15 indexes)
+        - **Azure Search の価格レベル**: Basic B(15 indexes) もしくは Free F (3 Indexes) 
     - **Responsible AI Notice(責任ある AI に関する通知)**
         - **チェックボックス**: オン（チェックを入れる）
 
@@ -80,7 +80,7 @@ Azure AI Language には "質問応答" 機能が含まれています。それ�
 1. **[Manage sources(ソースの管理)]** ページが表示されます。 **[+Add source]** を選択し、**[URLs]** を選択します。
 
 1. **[Add URLs]** ボックスで、**[+ Add url]** を選択します。 次のように入力し、 **[Add all]** を選択します。
-    
+   
     - **URL の名前**: `MargiesKB`
     - **URL**: `https://raw.githubusercontent.com/ctct-edu/AI-900-Lab-v2/main/LabManual/doc/margies_faq.docx`
     - **classify file structure**: "Auto-detect "
