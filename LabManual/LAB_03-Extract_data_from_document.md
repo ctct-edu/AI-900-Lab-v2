@@ -12,7 +12,7 @@ Azure AI Document Intelligence は、フォームやドキュメントから情�
 
 このラボではレシートに記載された内容をDocument Intelligenceのモデルを使用して分析します。
 
-## 推定時間 : 15 分
+## 推定時間 : 10 分
 
 ## 演習リソース作成
 
